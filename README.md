@@ -1,19 +1,22 @@
-### Oi, sou o Davi Oliveira 👋
+### Oii, sou o Davi Oliveira 👋
 
-#### Estudando programação, gosto de aprender.
+#### Estudando programação...
 
 [![whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/981480390.)
-[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https:malito:avi.224@gmail.com)
+[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?hl=pt_BR#inbox?compose=jrjtXGkcgxRzltkLhdTmxsNkJTrqfzWhFgWPZtlhwxbTTRrnQqmJHZgBxWSHwtNsshKWvbKp)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davi-oliveira-97b660317/)
 
 
 ![Davi GitHub stats](https://github-readme-stats.vercel.app/api?username=Davioliveria&show_icons=true&theme=tokyonight)
 
+##
 
 ### Tecnologias que tenho noção:
 <div style="display:inline_block"><br/>
-  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img align="center" alt="css" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
-  <img align="center" alt="php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  
+  <img align="center" alt="html" height="50" widht="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />
+  <img align="center" alt="css3" height="50" widht="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" />          
+  <img align="center" alt="react" height="50" widht="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />
+  <img align="center" alt="python" height="50" widht="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
 </div>
 
