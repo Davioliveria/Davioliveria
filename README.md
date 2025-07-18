@@ -26,6 +26,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davioliveria&layout=compact&langs_count=6&theme=radical"/>
 </div>
 
+
 ## Tecnologias e linguagens👨‍💻
 <div style="display:inline_block"><br/>
 
@@ -33,7 +34,12 @@
   
 </div>
 
+## sobre meu estudo
 
+Tenho me aprofundado em JavaScript, com foco em React.js e ReactNative para o front-end. Mas, também, venho explorando tecnologias como
+MySQL e Python tentando sempre aplicar esses conhecimentos em projetos acadêmicos e pessoais. Já que acredito:
+
+> "Saber é pouco, fazer é tudo"
  
 ## Onde me achar🔎
 
