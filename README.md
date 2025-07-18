@@ -1,7 +1,7 @@
 # 👋 Oii, sou o Davi Oliveira! 
 
 #### Código é arte🎨, bugs são desafios, Desenvolvedor embusca de aprendizado⚡
-#### JavaScripi,React Native e Node no radar🚀
+#### JavaScript,React Native e Node no radar🚀
 
 ## Sobre mim
 
