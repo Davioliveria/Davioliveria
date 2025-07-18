@@ -9,6 +9,9 @@
 #### 📚Estudando Javascript, React Native e desenvolvimento FrontEnd.
 #### 👀Buscando oportunidades intensas de aprendizado.
 
+##
+<img src="https://raw.githubusercontent.com/Davioliveria/Davioliveria/output/snake.svg" alt="Snake animation" />
+###
 ## 
 
 <picture>
