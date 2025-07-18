@@ -11,18 +11,16 @@
 
 ##
 
-###
-![Davi GitHub stats](https://github-readme-stats.vercel.app/api?username=Davioliveria&show_icons=true&theme=tokyonight)
-
-##
+<div style="display:inline_block">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=davioliveria&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davioliveria&layout=compact&langs_count=6&theme=radical"/>
+</div>
 
 ## Tecnologias e linguagens👨‍💻
 <div style="display:inline_block"><br/>
+
+  [![My Skills](https://skillicons.dev/icons?i=html,css,js,python,react)](https://skillicons.dev)
   
-  <img align="center" alt="html" height="50" widht="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />
-  <img align="center" alt="css3" height="50" widht="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" />          
-  <img align="center" alt="react" height="50" widht="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />
-  <img align="center" alt="python" height="50" widht="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
 </div>
 
 
