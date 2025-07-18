@@ -10,7 +10,7 @@
 #### 👀Buscando oportunidades intensas de aprendizado.
 
 ##
-![snake gif](https://github.com/daviliveira/daviliveira/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/davioliveira/davioliveira/blob/output/github-contribution-grid-snake.svg)
 ###
 
 ###
